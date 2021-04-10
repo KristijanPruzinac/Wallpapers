@@ -1,0 +1,78 @@
+# depslib dependency file v1.0
+1617185120 source:c:\users\kikomali25\desktop\folders\c++\glfw test\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<string>
+	<chrono>
+	<windows.h>
+	<gl.h>
+
+1617141409 source:c:\users\kikomali25\desktop\folders\c++\glfw test\resources.rc
+
+1617222116 source:c:\users\kikomali25\desktop\folders\c++\wallpaper - test 1\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<string>
+	<chrono>
+	<windows.h>
+	<gl.h>
+	<ctime>
+	<stdlib.h>
+	<cmath>
+
+1617456603 source:c:\users\kikomali25\desktop\folders\c++\wallpapers\wallpaper - test 1\main.cpp
+	<wallpaper.h>
+
+1617453115 c:\users\kikomali25\desktop\folders\c++\wallpapers\wallpaper - test 1\wallpaper.h
+	<iostream>
+	<string>
+	<fstream>
+	<string>
+	<chrono>
+	<windows.h>
+	<gl.h>
+	<ctime>
+	<stdlib.h>
+	<cmath>
+
+1617456834 source:c:\users\kikomali25\desktop\folders\c++\wallpapers\wallpaper - test 1\wallpaper.cpp
+	<wallpaper.h>
+
+1617457190 source:c:\users\kikomali25\desktop\folders\c++\wallpapers\left to right moving objects\main.cpp
+	<wallpaper.h>
+
+1617453115 c:\users\kikomali25\desktop\folders\c++\wallpapers\left to right moving objects\wallpaper.h
+	<iostream>
+	<string>
+	<fstream>
+	<string>
+	<chrono>
+	<windows.h>
+	<gl.h>
+	<ctime>
+	<stdlib.h>
+	<cmath>
+
+1617456834 source:c:\users\kikomali25\desktop\folders\c++\wallpapers\left to right moving objects\wallpaper.cpp
+	<wallpaper.h>
+
+1617457190 source:c:\users\kikomali25\desktop\folders\c++\wallpapers\left to right moving clouds\main.cpp
+	<wallpaper.h>
+
+1617453115 c:\users\kikomali25\desktop\folders\c++\wallpapers\left to right moving clouds\wallpaper.h
+	<iostream>
+	<string>
+	<fstream>
+	<string>
+	<chrono>
+	<windows.h>
+	<gl.h>
+	<ctime>
+	<stdlib.h>
+	<cmath>
+
+1617456834 source:c:\users\kikomali25\desktop\folders\c++\wallpapers\left to right moving clouds\wallpaper.cpp
+	<wallpaper.h>
+
