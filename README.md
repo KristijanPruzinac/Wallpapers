@@ -11,4 +11,3 @@ WARNING: To close the program open task manager (Ctrl + Shift + Escape), find Wa
 Credits:
 Forest theme background - https://www.youtube.com/watch?v=9SLgYmesvmo
 Valley theme background - https://www.pixel4k.com/the-valley-minimal-4k-116737.html
-a
