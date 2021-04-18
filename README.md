@@ -8,6 +8,6 @@ Source code is in codeblocks (Code blocks project file), but is easy enough to l
 
 WARNING: To close the program open task manager (Ctrl + Shift + Escape), find Wallpaper.exe and close it. Then reset windows explorer or change background in windows personalization dialog to reset desktop background.
 
-Credits:
-Forest theme background - https://www.youtube.com/watch?v=9SLgYmesvmo
+Credits:\n
+Forest theme background - https://www.youtube.com/watch?v=9SLgYmesvmo\n
 Valley theme background - https://www.pixel4k.com/the-valley-minimal-4k-116737.html
