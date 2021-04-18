@@ -1,0 +1,1 @@
+Drag and drop images from /Images folder to /Source or /Executable depending on intent.
