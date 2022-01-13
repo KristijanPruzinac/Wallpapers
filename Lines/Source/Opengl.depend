@@ -1,0 +1,115 @@
+# depslib dependency file v1.0
+1617185120 source:c:\users\kikomali25\desktop\folders\c++\glfw test\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<string>
+	<chrono>
+	<windows.h>
+	<gl.h>
+
+1617141409 source:c:\users\kikomali25\desktop\folders\c++\glfw test\resources.rc
+
+1617222116 source:c:\users\kikomali25\desktop\folders\c++\wallpaper - test 1\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<string>
+	<chrono>
+	<windows.h>
+	<gl.h>
+	<ctime>
+	<stdlib.h>
+	<cmath>
+
+1617456603 source:c:\users\kikomali25\desktop\folders\c++\wallpapers\wallpaper - test 1\main.cpp
+	<wallpaper.h>
+
+1617453115 c:\users\kikomali25\desktop\folders\c++\wallpapers\wallpaper - test 1\wallpaper.h
+	<iostream>
+	<string>
+	<fstream>
+	<string>
+	<chrono>
+	<windows.h>
+	<gl.h>
+	<ctime>
+	<stdlib.h>
+	<cmath>
+
+1617456834 source:c:\users\kikomali25\desktop\folders\c++\wallpapers\wallpaper - test 1\wallpaper.cpp
+	<wallpaper.h>
+
+1635309570 source:c:\users\kikomali25\desktop\folders\c++\wallpapers\video - test\wallpaper.cpp
+	<wallpaper.h>
+
+1635309570 c:\users\kikomali25\desktop\folders\c++\wallpapers\video - test\wallpaper.h
+	<iostream>
+	<string>
+	<fstream>
+	<string>
+	<chrono>
+	<windows.h>
+	<gl.h>
+	<ctime>
+	<stdlib.h>
+	<cmath>
+
+1635311008 source:c:\users\kikomali25\desktop\folders\c++\wallpapers\video - test\main.cpp
+	<wallpaper.h>
+	"stb_image.h"
+
+1635929139 source:c:\users\kikomali25\desktop\folders\c++\wallpapers\4 - tentacles\wallpaper.cpp
+	<wallpaper.h>
+
+1635929114 c:\users\kikomali25\desktop\folders\c++\wallpapers\4 - tentacles\wallpaper.h
+	<iostream>
+	<string>
+	<fstream>
+	<string>
+	<chrono>
+	<windows.h>
+	<gl.h>
+	<ctime>
+	<stdlib.h>
+	<cmath>
+
+1635930758 source:c:\users\kikomali25\desktop\folders\c++\wallpapers\4 - tentacles\main.cpp
+	<wallpaper.h>
+
+1635929139 source:c:\users\kikomali25\desktop\folders\c++\wallpapers\4 - inverse kinematics\wallpaper.cpp
+	<wallpaper.h>
+
+1635946897 c:\users\kikomali25\desktop\folders\c++\wallpapers\4 - inverse kinematics\wallpaper.h
+	<iostream>
+	<string>
+	<fstream>
+	<string>
+	<chrono>
+	<windows.h>
+	<gl.h>
+	<ctime>
+	<stdlib.h>
+	<cmath>
+
+1635950454 source:c:\users\kikomali25\desktop\folders\c++\wallpapers\4 - inverse kinematics\main.cpp
+	<wallpaper.h>
+
+1636624891 source:c:\users\kikomali25\desktop\folders\c++\wallpapers\5 - lines\wallpaper.cpp
+	<wallpaper.h>
+
+1642082854 c:\users\kikomali25\desktop\folders\c++\wallpapers\5 - lines\wallpaper.h
+	<iostream>
+	<string>
+	<fstream>
+	<string>
+	<chrono>
+	<windows.h>
+	<gl.h>
+	<ctime>
+	<stdlib.h>
+	<cmath>
+
+1640091488 source:c:\users\kikomali25\desktop\folders\c++\wallpapers\5 - lines\main.cpp
+	<wallpaper.h>
+
