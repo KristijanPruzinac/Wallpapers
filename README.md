@@ -5,7 +5,7 @@ Should work on all windows machines and on any resolution, although might look w
 
 Source code is in codeblocks (Code blocks project file), but is easy enough to link for other ide-s.
 
-#### WARNINGS:  
+#### WARNING:  
 To close the program open task manager (Ctrl + Shift + Escape), find Wallpaper.exe and close it. Then reset windows explorer or change background in windows personalization dialog to reset desktop background.  
   
 Running these programs will possibly need the opengl32.dll dependancy. If that is the case just drag and drop it in the directory where you are running exe or source.  
