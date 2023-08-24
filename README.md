@@ -1,15 +1,14 @@
-Some wallpapers that i made... Source code is provided.
+# Wallpapers  
+Some wallpapers that i made in c++, source code is provided.
 
-Works on windows 8 - 10.
-
-Should work on any resolution, although might look weird on 2K and 4K or just like 1920x1080 resolution.
+Should work on all windows machines and on any resolution, although might look weird on 2K and 4K.
 
 Source code is in codeblocks (Code blocks project file), but is easy enough to link for other ide-s.
 
-WARNING: To close the program open task manager (Ctrl + Shift + Escape), find Wallpaper.exe and close it. Then reset windows explorer or change background in windows personalization dialog to reset desktop background.
+### WARNING: To close the program open task manager (Ctrl + Shift + Escape), find Wallpaper.exe and close it. Then reset windows explorer or change background in windows personalization dialog to reset desktop background.
 
-ANOTHER WARNING: Running these programs will possibly need the opengl32.dll dependancy. If that is the case just drag and drop it in the directory where you are running exe or source.
+### ANOTHER WARNING: Running these programs will possibly need the opengl32.dll dependancy. If that is the case just drag and drop it in the directory where you are running exe or source.
 
-Credits:
+## Credits:
 Forest theme background - https://www.youtube.com/watch?v=9SLgYmesvmo  
 Valley theme background - https://www.pixel4k.com/the-valley-minimal-4k-116737.html  
